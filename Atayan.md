@@ -28,8 +28,8 @@
 [https://atlas.herzen.spb.ru/schedule.php?id=7599](https://atlas.herzen.spb.ru/schedule.php?id=7599)
 
 Электронные образовательные ресурсы преподавателя:
-* Информатика (Политология. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4755](https://moodle.herzen.spb.ru/enrol/index.php?id=4755)
-* Информатика (История. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4756](https://moodle.herzen.spb.ru/enrol/index.php?id=4756)
+* информатика (Политология. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4755](https://moodle.herzen.spb.ru/enrol/index.php?id=4755);
+* информатика (История. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4756](https://moodle.herzen.spb.ru/enrol/index.php?id=4756).
 
 Научно-исследовательская работа:
 * публикационная активность:
