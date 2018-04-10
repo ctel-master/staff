@@ -24,7 +24,7 @@
 Ссылка на индивидуальный план работы преподавателя (в Электронном Атласе):
 [https://atlas.herzen.spb.ru/indplan.php?ID=7599&CHAIR=238](https://atlas.herzen.spb.ru/indplan.php?ID=7599&CHAIR=238)
 
-Ссылка на расписание занятий преподавателя (в Электронном Атласе):
+Ссылка на расписание занятий преподавателя (в "Электронном Атласе"):
 [https://atlas.herzen.spb.ru/schedule.php?id=7599](https://atlas.herzen.spb.ru/schedule.php?id=7599)
 
 Электронные образовательные ресурсы преподавателя:
