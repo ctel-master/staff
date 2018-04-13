@@ -21,22 +21,22 @@
 * основы электронного управления;
 * IT-менеджмент.
 
-Ссылка на индивидуальный план работы преподавателя (в Электронном Атласе):
+Ссылка на индивидуальный план работы преподавателя (в «Электронном Атласе»):
 [https://atlas.herzen.spb.ru/indplan.php?ID=7599&CHAIR=238](https://atlas.herzen.spb.ru/indplan.php?ID=7599&CHAIR=238)
 
-Ссылка на расписание занятий преподавателя (в "Электронном Атласе"):
+Ссылка на расписание занятий преподавателя (в «Электронном Атласе»):
 [https://atlas.herzen.spb.ru/schedule.php?id=7599](https://atlas.herzen.spb.ru/schedule.php?id=7599)
 
 Электронные образовательные ресурсы преподавателя:
-* информатика (Политология. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4755](https://moodle.herzen.spb.ru/enrol/index.php?id=4755);
-* информатика (История. Бакалавр.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4756](https://moodle.herzen.spb.ru/enrol/index.php?id=4756).
+* информатика (Политология. Бакалавриат.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4755](https://moodle.herzen.spb.ru/enrol/index.php?id=4755);
+* информатика (История. Бакалавриат.): [https://moodle.herzen.spb.ru/enrol/index.php?id=4756](https://moodle.herzen.spb.ru/enrol/index.php?id=4756).
 
 Научно-исследовательская работа:
 * публикационная активность:
   * число публикаций на elibrary.ru - 32;
   * число публикаций в РИНЦ -  31;
   * число цитирований - 132;
-  * индекс Хирша по всем публикациям на elibrary.ru – 5.
+  * индекс Хирша по всем публикациям на elibrary.ru – 5;
 * ссылка на публикации преподавателя elibrary.ru: [https://elibrary.ru/author_items.asp?authorid=263976](https://elibrary.ru/author_items.asp?authorid=263976).  
 
 Некоторые труды:
