@@ -82,5 +82,5 @@
 
 ![фотография: Ильина Татьяна Сергеевна](https://github.com/ctel-master/staff/blob/master/ilina.foto2.JPG "Ильина Татьяна Сергеевна")
 
-![фотография: Ильина Татьяна Сергеевна](ilina.foto3.jpg "Ильина Татьяна Сергеевна")
+![фотография: Ильина Татьяна Сергеевна](https://github.com/ctel-master/staff/blob/master/ilina.foto3.JPG "Ильина Татьяна Сергеевна")
 
