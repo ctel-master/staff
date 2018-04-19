@@ -30,8 +30,8 @@
 * информационные технологии в туристской индустрии и гостиничном деле: [https://sites.google.com/site/turizmitvturindustrii](https://sites.google.com/site/turizmitvturindustrii);
 * информационные технологии в профессиональной деятельности: [https://sites.google.com/site/itinprofactiv](https://sites.google.com/site/itinprofactiv);
 * техника и технологии представления и публикации информации: [https://moodle.herzen.spb.ru/course/view.php?id=3793](https://moodle.herzen.spb.ru/course/view.php?id=3793);
-* математика(1 курс): [https://moodle.herzen.spb.ru/course/view.php?id=1942](https://moodle.herzen.spb.ru/course/view.php?id=1942);
-* математика(2 курс): [https://moodle.herzen.spb.ru/course/view.php?id=1940](https://moodle.herzen.spb.ru/course/view.php?id=1940).
+* математика (1 курс): [https://moodle.herzen.spb.ru/course/view.php?id=1942](https://moodle.herzen.spb.ru/course/view.php?id=1942);
+* математика (2 курс): [https://moodle.herzen.spb.ru/course/view.php?id=1940](https://moodle.herzen.spb.ru/course/view.php?id=1940).
 
 Научно-исследовательская работа:
 * участие в проектах:
