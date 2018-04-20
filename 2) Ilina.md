@@ -18,7 +18,7 @@
 * математика.
 
 Ссылка на индивидуальный план работы преподавателя (в «Электронном Атласе»):
-[https://atlas.herzen.spb.ru/teacher.php?id=1280](https://atlas.herzen.spb.ru/teacher.php?id=1280)
+[https://atlas.herzen.spb.ru/indplan.php?ID=1280&CHAIR=238](https://atlas.herzen.spb.ru/indplan.php?ID=1280&CHAIR=238)
 
 Ссылка на расписание занятий преподавателя (в «Электронном Атласе»):
 [https://atlas.herzen.spb.ru/schedule.php?id=1280](https://atlas.herzen.spb.ru/schedule.php?id=1280)
